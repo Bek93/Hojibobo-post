@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HojiboboPost</string>
+    <string name="meta_cancel">Cancel</string>
+    <string name="meta_done">Done</string>
+    <string name="meta_order_number">Order number</string>
+    <string name="meta_order_date">Order date</string>
+    <string name="order_sent">Sent</string>
+
+    <string name="meta_address">Receiver\'s address</string>
+    <string name="meta_name">Receiver\'s name</string>
+    <string name="meta_phone">Receiver\'s phone</string>
+</resources>
